@@ -1,0 +1,12 @@
+.comp{
+    background-color: brown;
+    color: white;
+    border-radius: 5px 5px 5px;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+h1{
+    text-align: center;
+    text-decoration:underline;
+}
